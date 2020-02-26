@@ -1,0 +1,5 @@
+2020-02-26 10:37:13 DEBUG ClientProgram:11 - Enter the Principal Amount?
+2020-02-26 10:37:16 DEBUG ClientProgram:13 - Enter Rate of Interest?
+2020-02-26 10:37:19 DEBUG ClientProgram:15 - Enter the Number of Years?
+2020-02-26 10:37:21 DEBUG ClientProgram:19 - Simple Interest: 80.0Rs/-
+2020-02-26 10:37:21 DEBUG ClientProgram:20 - Compound Interest: 81.60000000000014Rs/-

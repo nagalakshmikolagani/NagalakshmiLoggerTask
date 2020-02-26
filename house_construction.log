@@ -1,0 +1,4 @@
+2020-02-26 10:44:02 DEBUG ClientProgram:10 - Enter the type of the material(standard/above standard/high standard)?
+2020-02-26 10:44:06 DEBUG ClientProgram:12 - Enter the total area of the house to be constructed?
+2020-02-26 10:44:09 DEBUG ClientProgram:14 - Enter the type of automation(not automated/fully automated)
+2020-02-26 10:44:14 DEBUG ClientProgram:18 - Total House Construction Cost: 1098000.0INR
